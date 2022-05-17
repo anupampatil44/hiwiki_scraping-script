@@ -60,3 +60,4 @@ def relevant_sections(section_text):
 
   print('No. of relevant sections:',len(relevant_sections),'\n-------------------------------\n')
   return relevant_sections,indice_list
+

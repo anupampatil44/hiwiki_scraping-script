@@ -73,3 +73,38 @@ def remove_templates(section_text):
             print(e)
 
     return filtered_section
+
+
+def cleaning(page_text):
+    temp = mwparserfromhell.parse(page_text)
+
+    # get list of all templates in the section which we'll remove:
+    template_list = temp.filter_templates()
+
+    # removing the unnecessary tags and the content in them (of no use from nlp standpoint):
+    temp = re.sub(
+        '(<format>((.|\n)*?)</format>)|(<contributor>((.|\n)*?)</contributor>)|(<timestamp>((.|\n)*?)</timestamp>)|(<ns>((.|\n)*?)</ns>)|(<id>((.|\n)*?)</id>)|(<parentid>((.|\n)*?)</parentid>)|(<ip>((.|\n)*?)</ip>)|(<comment>((.|\n)*?)</comment>|(<model>((.|\n)*?)</model>|(<sha1>((.|\n)*?)</sha1>)))',
+        '', str(temp))
+
+    temp = mwparserfromhell.parse(temp)
+    # using the strip_code method to remove unnecessary attributes:
+    temp = temp.strip_code().strip()
+
+    # converting to string as operations are easier to perform:
+    temp = str(temp)
+
+    for j in template_list:
+        temp = temp.replace(str(j), '')
+
+        # remove excess \n occurences also if needed:
+        temp = temp.replace('\n', ' ')
+
+        # print("Cleaned temp:\n",temp)
+        # remove excess spacings also:
+        temp = re.sub(r'\s\s+', ' ', temp)
+        # print("Throrughly Cleaned temp:\n", temp)
+
+        temp = strip_html_tags(temp)
+        temp = re.sub(r'\s\s+', ' ', temp)
+
+    return temp

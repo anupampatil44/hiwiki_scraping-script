@@ -624,3 +624,465 @@
     </revision>
   </page>
 
+  <page>
+    <title>हिन्दी</title>
+    <ns>0</ns>
+    <id>54</id>
+    <revision>
+      <id>5512517</id>
+      <parentid>5512516</parentid>
+      <timestamp>2022-04-15T14:40:37Z</timestamp>
+      <contributor>
+        <username>अनुनाद सिंह</username>
+        <id>1634</id>
+      </contributor>
+      <comment>/* मानकीकरण */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="97161" xml:space="preserve">{{Infobox language
+|name = '''हिन्दी'''
+|nativename = &lt;!--In Devanagari--&gt;{{lang|hi|[[wikt:हिंदी|हिन्दी]]}} या मानक हिंदी&lt;br /&gt;
+|image = File:Hindi.svg
+|imagesize =
+|imagecaption = शब्द &quot;हिन्दी&quot; [[देवनागरी]] में
+|states  = भारत&lt;br /&gt;एवं [[नेपाल]], [[दक्षिण अफ्रीका]], [[पाकिस्तान]] ([[हिन्दुस्तानी]])&lt;!--not Mauritius, Suriname, etc. unless you have refs for Manak Hindi--&gt;
+|speakers = 61.5 करोड़ &lt;ref&gt;http://www.newsonair.com/News?title=Hindi-is-3rd-most-spoken-language-in-the-world-with-615-million-speakers-after-English%2C-Mandarin&amp;id=381514&lt;/ref&gt; &lt;br /&gt; द्वितीय भाषा: १२ करोड़ (१९९९)&lt;ref name=&quot;ethnologue.com&quot;/&gt;
+|ref  = e16
+|date = १९९१
+|speakers2 =
+|familycolor = Indo-European
+|fam2 = [[हिन्द-ईरानी भाषाएँ|हिन्द-ईरानी]]
+|fam3 = [[हिंद-आर्य भाषाएँ |हिन्द-आर्य]]
+|fam4 =[[संस्कृत भाषा|संस्कृत]]
+|fam5 = [[मध्य_क्षेत्र_(हिन्दी)|केन्द्रीय क्षेत्र (हिन्दी)]]
+|fam6 = [[हिंद-आर्य भाषाएँ |पश्चिमी हिन्दी]]
+|fam7 = [[हिंदुस्तानी भाषा|हिन्दुस्तानी]]
+|fam8 = [[खड़ीबोली]]
+|script  = [[देवनागरी]]
+|sign = [[:en:Signed Hindi|Signed Hindi]]
+|agency  = [[केन्द्रीय हिन्दी निदेशालय]]&lt;ref&gt;{{cite web |url=http://hindinideshalaya.nic.in/hindi/introduction/intro.html |title=परिचय:: केंद्रीय हिंदी निदेशालय |access-date=11 सितम्बर 2015 |archive-url=https://web.archive.org/web/20180504212718/http://www.hindinideshalaya.nic.in/hindi/introduction/intro.html |archive-date=4 मई 2018 |url-status=dead }}&lt;/ref&gt;
+|iso1 = hi
+|iso2 = hin
+|iso3 = hin
+|glotto=hind1269
+|glottorefname=Hindi
+|linglist = hin-hin
+|lingua  = 59-AAF-qf
+|map  =Hindi 2011 Indian Census by district.svg
+|mapcaption =2011 की जनगणना के अनुसार भारत में हिंदी के प्रथम भाषा स्व-रिपोर्ट किए गए वक्ताओं का वितरण।
+|notice  =
+}}'''हिन्दी''' जिसके मानकीकृत रूप को '''मानक हिंदी''' कहा जाता है, विश्व की एक प्रमुख [[भाषा]] है एवं [[भारत]] की एक [[राजभाषा]] है। केन्द्रीय स्तर पर [[भारत]] में सह-[[आधिकारिक भाषा|आधिकारिक]] भाषा [[अंग्रेजी]] है। यह [[हिन्दुस्तानी भाषा]] की एक मानकीकृत रूप है जिसमें [[संस्कृत]] के [[तत्सम]] तथा [[तद्भव]] शब्दों का प्रयोग अधिक है और अरबी-फ़ारसी शब्द कम हैं। हिन्दी [[भारत का संविधान|संवैधानिक]] रूप से [[भारत]] की [[राजभाषा]] और भारत की सबसे अधिक बोली और समझी जाने वाली [[भाषा]] है। हिन्दी [[भारत]] की [[राष्ट्रभाषा]] नहीं है क्योंकि [[भारत का संविधान|भारत के संविधान]] में किसी भी भाषा को ऐसा दर्जा नहीं दिया गया है।&lt;ref&gt;{{cite web|url=https://www.firstpost.com/india/why-hindi-isnt-the-national-language-6733241.html|title=Why Hindi isn't the national language|archive-url=https://web.archive.org/web/20190603135908/https://www.firstpost.com/india/why-hindi-isnt-the-national-language-6733241.html|archive-date=3 जून 2019|access-date=3 जून 2019|url-status=dead}}&lt;/ref&gt;&lt;ref name=&quot;National TOI&quot;&gt;{{cite news|url=http://timesofindia.indiatimes.com/india/Theres-no-national-language-in-India-Gujarat-High-Court/articleshow/5496231.cms|title=There's no national language in India: Gujarat High Court|last=Khan|first=Saeed|date=25 January 2010|location=Ahmedabad|accessdate=5 May 2014|newspaper=[[The Times of India]]|publisher=[[The Times Group]]|url-status=live|archiveurl=https://web.archive.org/web/20140318040319/http://timesofindia.indiatimes.com/india/Theres-no-national-language-in-India-Gujarat-High-Court/articleshow/5496231.cms|archivedate=18 March 2014|df=dmy-all}}&lt;/ref&gt; ''एथनोलॉग'' के अनुसार हिन्दी विश्व की तीसरी सबसे अधिक बोली जाने वाली भाषा है।&lt;ref&gt;[http://www.newsonair.com/News?title=Hindi-is-3rd-most-spoken-language-in-the-world-with-615-million-speakers-after-English%2C-Mandarin&amp;id=381514 Hindi is 3rd most spoken language in the world with 615 million speakers after English, Mandarin]&lt;/ref&gt; [[विश्व आर्थिक मंच]] की गणना के अनुसार यह विश्व की दस शक्तिशाली भाषाओं में से एक है।&lt;ref name=&quot;auto&quot;&gt;{{Cite web|url=https://www.weforum.org/agenda/2016/12/these-are-the-most-powerful-languages-in-the-world/|title=These are the most powerful languages in the world|website=World Economic Forum|accessdate=1 मार्च 2019|archive-url=https://web.archive.org/web/20190324152019/https://www.weforum.org/agenda/2016/12/these-are-the-most-powerful-languages-in-the-world/|archive-date=24 मार्च 2019|url-status=live}}&lt;/ref&gt;
+
+[[भारत की जनगणना २०११]] में 57.1% भारतीय जनसंख्या हिन्दी जानती है&lt;ref name=&quot;fulllangdatacensus 2011&quot; /&gt; जिसमें से 43.63% भारतीय लोगों ने हिन्दी को अपनी मूल भाषा या मातृभाषा घोषित किया था।&lt;ref&gt;{{cite web|url=https://timesofindia.indiatimes.com/india/hindi-mother-tongue-of-44-in-india-bangla-second-most-spoken/articleshow/64755458.cms|title=Hindi mother tongue of 44% in India, Bangla second most spoken|access-date=27 जून 2018|archive-url=https://web.archive.org/web/20180720174858/https://timesofindia.indiatimes.com/india/hindi-mother-tongue-of-44-in-india-bangla-second-most-spoken/articleshow/64755458.cms|archive-date=20 जुलाई 2018|url-status=live}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=https://www.thenewsminute.com/article/what-india-speaks-south-indian-languages-are-growing-not-fast-hindi-83823|title=What India speaks: South Indian languages are growing, but not as fast as Hindi|access-date=29 जून 2018|archive-url=https://web.archive.org/web/20190216003937/https://www.thenewsminute.com/article/what-india-speaks-south-indian-languages-are-growing-not-fast-hindi-83823|archive-date=16 फ़रवरी 2019|url-status=dead}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=https://timesofindia.indiatimes.com/india/indias-most-and-least-tongue-tied-communities/articleshow/66600187.cms|title=Only 12% Hindi speakers bilingual: Census|access-date=13 नवंबर 2018|archive-url=https://web.archive.org/web/20181113172718/https://timesofindia.indiatimes.com/india/indias-most-and-least-tongue-tied-communities/articleshow/66600187.cms|archive-date=13 नवंबर 2018|url-status=live}}&lt;/ref&gt; इसके  अतिरिक्त भारत, [[पाकिस्तान]] और अन्य देशों में [[१४|14]] करोड़ [[१०|10]] लाख लोगों द्वारा बोली जाने वाली [[उर्दू]], व्याकरण के आधार पर हिन्दी के समान है, एवं दोनों ही [[हिन्दुस्तानी भाषा]] की परस्पर-सुबोध्य रूप हैं। एक विशाल संख्या में लोग हिन्दी और उर्दू दोनों को ही समझते हैं। भारत में हिन्दी, विभिन्न भारतीय राज्यों की [[१४|14]] आधिकारिक भाषाओं और क्षेत्र की बोलियों का उपयोग करने वाले लगभग [[१|1]] अरब लोगों में से अधिकांश की दूसरी भाषा है। हिन्दी भारत में [[सम्पर्क भाषा]] का कार्य करती है &lt;ref name=&quot;fulllangdatacensus 2011&quot;&gt;{{cite web|url=https://www.hindustantimes.com/india-news/how-languagesintersect-in-india/story-g3nzNwFppYV7XvCumRzlYL.html|title=How languages intersect in India|publisher=Hindustan Times|access-date=26 नवंबर 2018|archive-url=https://web.archive.org/web/20181122091352/https://www.hindustantimes.com/india-news/how-languagesintersect-in-india/story-g3nzNwFppYV7XvCumRzlYL.html|archive-date=22 नवंबर 2018|url-status=live}}&lt;/ref&gt;&lt;ref&gt;{{Cite web|url=https://www.hindustantimes.com/static/iframes/language_probability_interactive/index.html|title=How many Indians can you talk to?|website=www.hindustantimes.com|accessdate=1 मार्च 2019|archive-url=https://web.archive.org/web/20181122133636/https://www.hindustantimes.com/static/iframes/language_probability_interactive/index.html|archive-date=22 नवंबर 2018|url-status=live}}&lt;/ref&gt; और कुछ हद तक पूरे भारत में सामान्यतः एक सरल रूप में समझी जानेवाली भाषा है। कभी-कभी 'हिन्दी' शब्द का प्रयोग नौ भारतीय राज्यों के सन्दर्भ में भी उपयोग किया जाता है, जिनकी आधिकारिक भाषा हिन्दी है और हिन्दी भाषी बहुमत है, अर्थात् [[बिहार]], [[छत्तीसगढ़]], [[हरियाणा]], [[हिमाचल प्रदेश]], [[झारखण्ड]], [[मध्य प्रदेश]], [[राजस्थान]], [[उत्तराखण्ड]], [[जम्मू और कश्मीर]] (२०२० से) [[उत्तर प्रदेश]] और राष्ट्रीय राजधानी क्षेत्र [[दिल्ली]] का।&lt;ref&gt;{{cite web|url=https://www.thehindu.com/news/national/hindi-the-first-choice-of-people-in-only-12-states/article27459774.ece|title=Hindi the first choice of people in only 12 States|access-date=13 जून 2019|archive-url=https://web.archive.org/web/20190606145751/https://www.thehindu.com/news/national/hindi-the-first-choice-of-people-in-only-12-states/article27459774.ece|archive-date=6 जून 2019|url-status=live}}&lt;/ref&gt;
+
+हिन्दी और इसकी बोलियाँ सम्पूर्ण भारत के विविध राज्यों में बोली जाती हैं। भारत और अन्य देशों में भी लोग हिन्दी बोलते, पढ़ते और लिखते हैं।&lt;ref&gt;{{Cite web|url=https://indianexpress.com/article/research/hindi-diwas-2018-hindi-travelled-to-these-five-countries-from-india/|title=Hindi Diwas 2018: Hindi travelled to these five countries from India|date=14 सित॰ 2018|archive-url=https://web.archive.org/web/20190403145939/https://indianexpress.com/article/research/hindi-diwas-2018-hindi-travelled-to-these-five-countries-from-india/|archive-date=3 अप्रैल 2019|accessdate=1 मार्च 2019|url-status=live}}&lt;/ref&gt; [[फ़िजी]], [[मॉरिशस]], [[गयाना]], [[सूरीनाम]], [[नेपाल]]  और [[संयुक्त अरब अमीरात]] में भी हिन्दी या इसकी मान्य बोलियों का उपयोग करने वाले लोगों की बड़ी संख्या मौजूद है।&lt;ref name=&quot;ethnologue.com&quot; /&gt; फरवरी [[२०१९|2019]] में [[अबू धाबी]] में हिन्दी को न्यायालय की तीसरी भाषा के रूप में मान्यता मिली।&lt;ref&gt;{{Cite web|url=https://www.prabhasakshi.com/literaturearticles/abu-dhabi-recognises-hindi-language|title=वसंत पंचमी पर अबू धाबी से हिन्दी भाषा के लिए आया सुखद संदेश|archive-url=https://web.archive.org/web/20190215053440/https://www.prabhasakshi.com/literaturearticles/abu-dhabi-recognises-hindi-language|archive-date=15 फ़रवरी 2019|accessdate=1 मार्च 2019|url-status=dead}}&lt;/ref&gt;&lt;ref&gt;{{Cite web|url=https://hindi.timesnownews.com/world/article/hindi-to-become-third-language-used-in-abu-dhabi-dubai-court-system/363296|title=मुस्लिम देश अबू धाबी का ऐतिहासिक फैसला, हिन्दी को बनाया अदालतों में तीसरी आधिकारिक भाषा|website=hindi.timesnownews.com|archive-url=https://web.archive.org/web/20190215050340/https://hindi.timesnownews.com/world/article/hindi-to-become-third-language-used-in-abu-dhabi-dubai-court-system/363296|archive-date=15 फ़रवरी 2019|accessdate=1 मार्च 2019|url-status=dead}}&lt;/ref&gt;&lt;ref&gt;[ https://hindi.oneindia.com/news/india/the-abu-dhabi-judicial-department-acknowledged-hindi-language-as-official-language-492820.html {{Webarchive|url=https://web.archive.org/web/20190215050353/https://hindi.oneindia.com/news/india/the-abu-dhabi-judicial-department-acknowledged-hindi-language-as-official-language-492820.html|date=15 फ़रवरी 2019}} अबू धाबी में हिन्दी अब न्यायपालिका की आधिकारिक भाषा, सुषमा स्वराज ने कहा शुक्रिया&lt;/ref&gt;
+
+'देशी', 'भाखा' (भाषा), 'देशना वचन' ([[विद्यापति]]), 'हिन्दवी', 'दक्खिनी', 'रेखता', 'आर्यभाषा' ([[दयानन्द सरस्वती]]), '[[हिन्दुस्तानी]]', '[[खड़ी बोली]]',&lt;ref&gt;{{Cite web|url=http://bharatdiscovery.org/india/%E0%A4%B9%E0%A4%BF%E0%A4%82%E0%A4%A6%E0%A5%80|title=हिंदी - भारतकोश, ज्ञान का हिन्दी महासागर|website=bharatdiscovery.org|accessdate=1 मार्च 2019|archive-url=https://web.archive.org/web/20190311030857/http://bharatdiscovery.org/india/%E0%A4%B9%E0%A4%BF%E0%A4%82%E0%A4%A6%E0%A5%80|archive-date=11 मार्च 2019|url-status=dead}}&lt;/ref&gt; 'भारती' आदि हिन्दी के अन्य नाम हैं जो विभिन्न ऐतिहासिक कालखण्डों में एवं विभिन्न सन्दर्भों में प्रयुक्त हुए हैं। हिन्दी, [[हिन्द-यूरोपीय भाषा-परिवार|यूरोपीय भाषा-परिवार]] के अन्दर आती है। ये [[हिन्द ईरानी]] शाखा की [[हिन्द आर्य]] उपशाखा के अन्तर्गत वर्गीकृत है।
+
+== नामोत्पत्ति ==
+{{स्रोतहीन|date=फरवरी 2021}}
+हिन्दी शब्द का सम्बन्ध [[संस्कृत]] शब्द 'सिन्धु' से माना जाता है। 'सिन्धु' [[सिन्धु]] नदी को कहते थे और उसी आधार पर उसके आस-पास की भूमि को सिन्धु कहने लगे। यह सिन्धु शब्द [[ईरानी]] में जाकर ‘[[हिन्दू]]’, हिन्दी और फिर ‘हिन्द’ हो गया। बाद में ईरानी धीरे-धीरे भारत के अधिक भागों से परिचित होते गए और इस शब्द के अर्थ में विस्तार होता गया तथा हिन्द शब्द पूरे भारत का वाचक हो गया। इसी में ईरानी का ईक प्रत्यय लगने से (हिन्द+ईक) ‘हिन्दीक’ बना जिसका अर्थ है ‘हिन्द का’। यूनानी शब्द ‘इण्डिका’ या लैटिन 'इण्डेया' या अंग्रेजी शब्द ‘इण्डिया’ आदि इस ‘हिन्दीक’ के ही दूसरे रूप हैं। हिन्दी भाषा के लिए इस शब्द का प्राचीनतम प्रयोग शरफ़ुद्दीन यज्दी’ के ‘जफ़रनामा’([[१४२४|1424]]) में मिलता है।
+
+प्रोफ़ेसर महावीर सरन जैन ने अपने &quot;हिन्दी एवं उर्दू का अद्वैत&quot; शीर्षक आलेख में हिन्दी की व्युत्पत्ति पर विचार करते हुए कहा है कि ईरान की प्राचीन भाषा अवेस्ता में 'स्' ध्वनि नहीं बोली जाती थी बल्कि 'स्' को 'ह्' की तरह बोला जाता था। जैसे संस्कृत शब्द 'असुर' का अवेस्ता में सजाति समकक्ष शब्द 'अहुर' था। [[अफ़गानिस्तान]] के बाद सिन्धु नदी के इस पार हिन्दुस्तान के पूरे इलाके को प्राचीन [[फ़ारसी]] साहित्य में भी 'हिन्द', 'हिन्दुश' के नामों से पुकारा गया है तथा यहाँ की किसी भी वस्तु, भाषा, विचार को विशेषण के रूप में 'हिन्दीक' कहा गया है जिसका मतलब है 'हिन्द का' या 'हिन्द से'। यही 'हिन्दीक' शब्द अरबी से होता हुआ ग्रीक में 'इण्डिके', 'इण्डिका', लैटिन में 'इण्डेया' तथा अंग्रेजी में 'इण्डिया' बन गया। अरबी एवं फ़ारसी साहित्य में भारत (हिन्द) में बोली जाने वाली भाषाओं के लिए 'ज़बान-ए-हिन्दी' पद का उपयोग हुआ है। भारत आने के बाद अरबी-फ़ारसी बोलने वालों ने 'ज़बान-ए-हिन्दी', 'हिन्दी ज़बान' अथवा 'हिन्दी' का प्रयोग दिल्ली-आगरा के चारों ओर बोली जाने वाली भाषा के अर्थ में किया।
+
+== भाषायी उत्पत्ति और इतिहास ==
+{{मुख्य|हिन्दी भाषा का इतिहास}}
+हिन्‍दी भाषा का इतिहास लगभग एक सहस्र वर्ष पुराना माना गया है। हिन्‍दी भाषा व साहित्‍य के जानकार [[अपभ्रंश]] की अन्तिम अवस्‍था '[[अवहट्ठ]] से हिन्‍दी का उद्भव स्‍वीकार करते हैं। &lt;ref&gt;[https://www.amarujala.com/columns/blog/hindi-diwas-2019-hindi-language-history-in-hindi?pageId=1 हिंदी के विकास की यात्रा, हिंदी कैसे बनी भारत के हृदय की भाषा] (२०१९)&lt;/ref&gt; [[चन्द्रधर शर्मा 'गुलेरी']] ने इसी अवहट्ट को 'पुरानी हिन्दी' नाम दिया।
+
+[[अपभ्रंश]] की समाप्ति और आधुनिक भारतीय भाषाओं के जन्मकाल के समय को संक्रान्तिकाल कहा जा सकता है। हिन्दी का स्वरूप [[शौरसेनी]] और [[अर्धमागधी]] अपभ्रंशों से विकसित हुआ है। [[१०००]] ई॰ के आसपास इसकी स्वतन्त्र सत्ता का परिचय मिलने लगा था, जब अपभ्रंश भाषाएँ साहित्यिक सन्दर्भों में प्रयोग में आ रही थीं। यही भाषाएँ बाद में विकसित होकर आधुनिक भारतीय आर्य भाषाओं के रूप में अभिहित हुईं। अपभ्रंश का जो भी कथ्य रूप था - वही आधुनिक बोलियों में विकसित हुआ।
+
+अपभ्रंश के सम्बन्ध में ‘देशी’ शब्द की भी बहुधा चर्चा की जाती है। वास्तव में ‘देशी’ से देशी शब्द एवं देशी भाषा दोनों का बोध होता है। [[भरत मुनि]] ने [[नाट्यशास्त्र]] में उन शब्दों को ‘देशी’ कहा है जो संस्कृत के तत्सम एवं सद्भव रूपों से भिन्न हैं। ये ‘देशी’ शब्द जनभाषा के प्रचलित शब्द थे, जो स्वभावतः अप्रभंश में भी चले आए थे। जनभाषा व्याकरण के नियमों का अनुसरण नहीं करती, परन्तु व्याकरण को जनभाषा की प्रवृत्तियों का विश्लेषण करना पड़ता है। प्राकृत-व्याकरणों ने संस्कृत के ढाँचे पर व्याकरण लिखे और [[संस्कृत]] को ही [[प्राकृत]] आदि की प्रकृति माना। अतः जो शब्द उनके नियमों की पकड़ में न आ सके, उनको देशी संज्ञा दी गयी।
+
+अंग्रेजी काल में [[भारतेन्दु हरिश्चन्द्र]] के समय हिन्दी के विकास में एक नयी चेतना आयी। भारतीय स्वतंत्रता आन्दोलन के समय [[महात्मा गाँधी]] सहित अनेक नेताओं ने भारतीय एकता के लिये हिन्दी के विकास का समर्थन किया। [[काशी नागरी प्रचारिणी सभा]] और [[हिन्दी साहित्य सम्मेलन|हिन्दी साहित्य सम्मेलन, प्रयाग]] के प्रयासों से हिन्दी को एक नयी ऊँचाई मिली। [[भारत की स्वतन्त्रता]] के पश्चात [[भारतीय संविधान|संविधान]] निर्माताओं ने हिन्दी को भारत की [[राजभाषा]] स्वीकार किया। &lt;ref&gt;[https://www.hindikeguru.com/2020/10/hindi-bhasha-ka-vikas.html हिंदी भाषा का इतिहास और हिंदी भाषा का विकास]&lt;/ref&gt;
+
+== शैलियाँ ==
+भाषाशास्त्र के अनुसार हिन्दी के चार प्रमुख रूप या शैलियाँ हैं :
+# '''मानक हिन्दी''' - हिन्दी का मानकीकृत रूप, जिसकी लिपि देवनागरी है। इसमें [[संस्कृत]] भाषा के कई शब्द है, जिन्होंने [[फ़ारसी]] और [[अरबी भाषा|अरबी]] के कई शब्दों की जगह ले ली है। इसे 'शुद्ध हिन्दी' भी कहते हैं। यह [[खड़ीबोली]] पर आधारित है, जो [[दिल्ली]] और उसके आस-पास के क्षेत्रों में बोली जाती थी।
+# '''[[हिन्दको भाषा|दक्षिणी]]''' - उर्दू-हिन्दी का वह रूप जो [[हैदराबाद]] और उसके आसपास की जगहों में बोला जाता है। इसमें फ़ारसी-अरबी के शब्द उर्दू की अपेक्षा कम होते हैं।
+# '''रेख्ता''' - उर्दू का वह रूप जो शायरी में प्रयुक्त होता था।
+# '''[[उर्दू]]''' - हिन्दी का वह रूप जो देवनागरी लिपि के बजाय फ़ारसी-अरबी लिपि में लिखा जाता है। इसमें संस्कृत के शब्द कम होते हैं, और फ़ारसी-अरबी के शब्द अधिक। यह भी खड़ीबोली पर ही आधारित है।&lt;ref&gt;{{cite book |title=Concise Encyclopedia of Languages of the World |trans-title=दुनिया की भाषाओं का संक्षिप्त विश्वकोश |url=https://books.google.co.in/books?id=F2SRqDzB50wC |author=कीथ ब्राउन, सारा ओगिल्वी |publisher=एल्सेवियर |year=२०१० |isbn=9780080877754 |page=498 |quote= |access-date=18 नवंबर 2015 |archive-url=https://web.archive.org/web/20151119103527/https://books.google.co.in/books?id=F2SRqDzB50wC |archive-date=19 नवंबर 2015 |url-status=live }}&lt;/ref&gt;
+
+हिन्दी और उर्दू दोनों को मिलाकर [[हिन्दुस्तानी]] भाषा कहा जाता है। हिन्दुस्तानी मानकीकृत हिन्दी और मानकीकृत [[उर्दू]] के बोलचाल की भाषा है। इसमें शुद्ध संस्कृत और शुद्ध फ़ारसी-अरबी दोनों के शब्द कम होते हैं और तद्भव शब्द अधिक। उच्च हिन्दी [[भारत|भारतीय संघ]] की राजभाषा है (''अनुच्छेद [[३४३|343]], भारतीय संविधान'')। यह इन भारतीय राज्यों की भी राजभाषा है : [[उत्तर प्रदेश]], [[बिहार]], [[झारखण्ड]], [[मध्य प्रदेश]], [[उत्तरांचल]], [[हिमाचल प्रदेश]], [[छत्तीसगढ़]], [[राजस्थान]], [[हरियाणा]] और [[दिल्ली]]। इन राज्यों के अतिरिक्त [[महाराष्ट्र]], [[गुजरात]], [[पश्चिम बंगाल]], [[पंजाब (भारत)|पंजाब]] और हिन्दी भाषी राज्यों से लगते अन्य राज्यों में भी हिन्दी बोलने वालों की अच्छी संख्या है। उर्दू [[पाकिस्तान]] की और भारतीय राज्य [[जम्मू और कश्मीर]] की राजभाषा है, इसके अतिरिक्त [[उत्तर प्रदेश]], [[बिहार]], [[तेलंगाना]] और [[दिल्ली]] में द्वितीय राजभाषा है। यह लगभग सभी ऐसे राज्यों की सह-राजभाषा है; जिनकी मुख्य राजभाषा हिन्दी है।
+
+=== हिन्दी एवं उर्दू ===
+{{मुख्य|हिन्दी एवं उर्दू}}
+भाषाविद हिन्दी एवं [[उर्दू भाषा|उर्दू]] को एक ही भाषा समझते है। हिन्दी [[देवनागरी]] लिपि में लिखी जाती है और शब्दावली के स्तर पर अधिकांशतः [[संस्कृत भाषा|संस्कृत]] के शब्दों का प्रयोग करती है। उर्दू, [[नस्तालिक|नस्तालिक लिपि]] में लिखी जाती है और शब्दावली के स्तर पर [[फारसी भाषा|फ़ारसी]] और [[अरबी भाषा|अरबी]] भाषाओं का प्रभाव अधिक है। हालाँकि [[व्याकरण|व्याकरणिक]] रूप से उर्दू और हिन्दी में कोई अन्तर नहीं है परन्तु कुछ विशेष क्षेत्रों में शब्दावली के स्रोत (जैसा कि ऊपर लिखा गया है) में अन्तर है। कुछ विशेष ध्वनियाँ उर्दू में अरबी और फ़ारसी से ली गयी हैं और इसी प्रकार फ़ारसी और अरबी की कुछ विशेष व्याकरणिक संरचनाएँ भी प्रयोग की जाती हैं। उर्दू और हिन्दी  खड़ीबोली की दो आधिकारिक शैलियाँ हैं।
+
+=== मानकीकरण ===
+{{मुख्य|हिन्दी वर्तनी मानकीकरण}}
+स्वतन्त्रता प्राप्ति के बाद से हिन्दी और देवनागरी के मानकीकरण की दिशा में निम्नलिखित क्षेत्रों में प्रयास हुये हैं :-
+* हिन्दी [[व्याकरण]] का मानकीकरण
+* वर्तनी का मानकीकरण
+* [[शिक्षा मंत्रालय, भारत सरकार|शिक्षा मंत्रालय]] के निर्देश पर [[केन्द्रीय हिन्दी निदेशालय]] द्वारा [[देवनागरी]] का मानकीकरण
+* वैज्ञानिक ढंग से [[देवनागरी]] लिखने के लिये एकरूपता के प्रयास
+* [[देवनागरी यूनिकोड खण्ड|यूनिकोड का विकास]]
+
+== बोलियाँ ==
+{{मुख्य|हिन्दी की विभिन्न बोलियाँ और उनका साहित्य}}
+
+हिन्दी का क्षेत्र विशाल है तथा हिन्दी की अनेक बोलियाँ (उपभाषाएँ) हैं। इनमें से कुछ में अत्यन्त उच्च श्रेणी के साहित्य की रचना भी हुई है। ऐसी बोलियों में [[ब्रजभाषा]] और [[अवधी]] प्रमुख हैं। ये बोलियाँ हिन्दी की विविधता हैं और उसकी शक्ति भी। वे हिन्दी की जड़ों को गहरा बनाती हैं। हिन्दी की बोलियाँ और उन बोलियों की उपबोलियाँ हैं जो न केवल अपने में एक बड़ी परम्परा, [[इतिहास]], [[सभ्यता]] को समेटे हुए हैं वरन स्वतन्त्रता संग्राम, जनसंघर्ष, वर्तमान के बाजारवाद के विरुद्ध भी उसका रचना संसार सचेत है।&lt;ref&gt;{{cite web|url= http://hindi.webduniya.com/miscellaneous/special07/hindiday/0709/13/1070913069_1.htm|title= अपने घर में कब तक बेगानी रहेगी हिन्दी|access-date= [[9 जून]] [[2008]]|format= एचटीएम|publisher= वेब दुनिया|language= }}{{Dead link|date=जून 2021 |bot=InternetArchiveBot }}&lt;/ref&gt;
+
+हिन्दी की बोलियों में प्रमुख हैं- [[अवधी]], [[ब्रजभाषा]], [[कन्नौजी]], [[बुन्देली]], [[बघेली]], [[भोजपुरी]], [[हरयाणवी]], [[राजस्थानी भाषा|राजस्थानी]], [[छत्तीसगढ़ी]], [[मालवी]], [[नागपुरी भाषा|नागपुरी]], [[खोरठा भाषा|खोरठा]], [[पंचपरगनिया भाषा|पंचपरगनिया]], [[कुमाउँनी]], [[मगही]] आदि। किन्तु हिन्दी के मुख्य दो भेद हैं - पश्चिमी हिन्दी तथा पूर्वी हिन्दी।
+
+== लिपि ==
+{{मुख्य|देवनागरी}}
+हिन्दी को [[देवनागरी लिपि]] में लिखा जाता है। इसे '''नागरी '''के नाम से भी जाना जाता है। देवनागरी में [[११|11]] [[स्वर]] और [[३३|33]] [[व्यंजन]] हैं। इसे बाईं से दाईं ओर लिखा जाता है।
+
+== शब्दावली ==
+हिन्दी शब्दावली में मुख्यतः चार वर्ग हैं।
+
+* '''[[तत्सम]] शब्द''' – ये वे शब्द हैं जिनको संस्कृत से बिना कोई रूप बदले ले लिया गया है। जैसे अग्नि, दुग्ध, दन्त, मुख। (परन्तु हिन्दी में आने पर ऐसे शब्दों से विसर्ग का लोप हो जाता है जैसे संस्कृत 'नामः' हिन्दी में केवल 'नाम' हो जाता है।&lt;ref name=&quot;sirysq&quot;&gt;Masica, p. 65&lt;/ref&gt;)
+
+* '''[[तद्भव]] शब्द''' – ये वे शब्द हैं जिनका जन्म संस्कृत या [[प्राकृत]] में हुआ था, लेकिन उनमें बहुत ऐतिहासिक बदलाव आया है। जैसे आग, दूध, दाँत, मुँह।
+
+*'''[[देशज]] शब्द''' – ''देशज'' का अर्थ है 'जो देश में ही उपजा या बना हो'। तो देशज शब्द का अर्थ हुआ जो न तो विदेशी भाषा का हो और न किसी दूसरी भाषा के शब्द से बना हो। ऐसा शब्द जो न संस्कृत का हो, न संस्कृत-शब्द का अपभ्रंश हो। ऐसा शब्द किसी प्रदेश (क्षेत्र) के लोगों द्वारा बोल-चाल में य़ों ही बना लिया जाता है। जैसे खटिया, लुटिया।
+
+*'''विदेशी शब्द''' – इसके अतिरिक्त हिन्दी में कई शब्द अरबी, फ़ारसी, तुर्की, अंग्रेजी आदि से भी आये हैं। इन्हें '''विदेशी शब्द''' कहते हैं।
+
+जिस हिन्दी में अरबी, फ़ारसी और अंग्रेजी के शब्द लगभग पूर्ण रूप से हटा कर तत्सम शब्दों को ही प्रयोग में लाया जाता है, उसे &quot;शुद्ध हिन्दी&quot; या &quot;मानकीकृत हिन्दी&quot; कहते हैं।
+
+== हिन्दी स्वरविज्ञान ==
+{{मुख्य|स्वनविज्ञान}}
+देवनागरी लिपि में हिन्दी की ध्वनियाँ इस प्रकार हैं :
+
+=== स्वर ===
+ये स्वर आधुनिक हिन्दी (खड़ीबोली) के लिये दिये गये हैं।
+{|align=&quot;center&quot; border=&quot;2&quot; class=wikitable width=100%
+! '''वर्णाक्षर'''||'''“प” के साथ मात्रा'''||'''[[आईपीए]] उच्चारण'''||&quot;प्&quot; के साथ उच्चारण||'''[[आईएसओ १५९१९|ISO]] समतुल्य'''||'''[[अंग्रेज़ी]] समतुल्य'''
+|-align=&quot;center&quot;
+| अ||प||{{IPA|/ ə /}}||{{IPA|/ pə /}}||a|| बीच का मध्य प्रसृत स्वर
+|
+|-align=&quot;center&quot;
+| आ||पा||{{IPA|/ ɑ: /}}||{{IPA|/ pɑ: /}}||ā|| दीर्घ विवृत पश्व प्रसृत स्वर
+|-align=&quot;center&quot;
+| इ||पि||{{IPA|/ ɪ /}}||{{IPA|/ pɪ /}}||i|| ह्रस्व संवृत अग्र प्रसृत स्वर
+|
+|-align=&quot;center&quot;
+| ई||पी||{{IPA|/ i: /}}||{{IPA|/ pi: /}}||ī|| दीर्घ संवृत अग्र प्रसृत स्वर
+|
+|-align=&quot;center&quot;
+| उ||पु||{{IPA|/ ʊ /}}||{{IPA|/ pʊ /}}||u|| ह्रस्व संवृत पश्व वर्तुल स्वर
+|
+|-align=&quot;center&quot;
+| ऊ||पू||{{IPA|/ u: /}}||{{IPA|/ pu: /}}||ū|| दीर्घ संवृत पश्व वर्तुल स्वर
+|
+|-align=&quot;center&quot;
+| ए||पे||{{IPA|/ e: /}}||{{IPA|/ pe: /}}||e|| दीर्घ अर्धसंवृत अग्र प्रसृत स्वर
+|
+|-align=&quot;center&quot;
+| ऐ||पै||{{IPA|/ ɛ: /}}||{{IPA|/ pɛ: /}}||ai|| दीर्घ लगभग-विवृत अग्र प्रसृत स्वर
+|
+|-align=&quot;center&quot;
+| ओ||पो||{{IPA|/ ο: /}}||{{IPA|/ pο: /}}||o|| दीर्घ अर्धसंवृत पश्व वर्तुल स्वर
+|
+|-align=&quot;center&quot;
+| औ||पौ||{{IPA|/ ɔ: /}}||{{IPA|/ pɔ: /}}||au|| दीर्घ अर्धविवृत पश्व वर्तुल स्वर
+|
+|-
+|}
+
+इसके अलावा हिन्दी और संस्कृत में ये वर्णाक्षर भी स्वर माने जाते हैं :
+* '''ऋ''' — इसका उच्चारण संस्कृत में /r̩/ था मगर आधुनिक हिन्दी में इसे /ɻɪ/ उच्चारित किया जाता है ।
+* '''अं''' — पंचम वर्ण - ङ्, ञ्, ण्, न्, म् का नासिकीकरण करने के लिए (अनुस्वार)
+* '''अँ''' — स्वर का अनुनासिकीकरण करने के लिए (चंद्र बिंदु)
+* '''अः''' — अघोष &quot;ह्&quot; (निःश्वास) के लिए (विसर्ग)
+
+=== व्यंजन ===
+जब किसी स्वर प्रयोग ना हो तो वहाँ पर डिफ़ॉल्ट रूप से 'अ' स्वर माना जाता है। स्वर के ना होना व्यंजन के नीचे हलन्त्‌ या [[विराम]] लगाके दर्शाया जाता है। जैसे क्‌ /k/, ख्‌ /kʰ/, ग्‌ /g/ और घ्‌ /gʱ/।
+{|border=&quot;2&quot; class=wikitable width=100%
+|+align=&quot;center&quot; colspan=&quot;6&quot;|स्पर्श (प्लोसिव)
+|-
+!width=10%|
+!width=15%| [[अल्पप्राण]]&lt;br /&gt;[[अघोष]]
+!width=15%| [[महाप्राण]]&lt;br /&gt;[[अघोष]]
+!width=15%| [[अल्पप्राण]]&lt;br /&gt;[[घोष]]
+!width=15%| [[महाप्राण]]&lt;br /&gt;[[घोष]]
+!width=15%| [[नासिक्य]]
+|-align=&quot;center&quot;
+|[[कण्ठ्य]]
+|'''क''' {{IPA|/ kə /}}&lt;br /&gt;
+|'''ख''' {{IPA|/ k&lt;sup&gt;h&lt;/sup&gt;ə /}}&lt;br /&gt;
+|'''ग''' {{IPA|/ gə /}}&lt;br /&gt;
+|'''घ''' {{IPA|/ g&lt;sup&gt;ɦ&lt;/sup&gt;ə /}}&lt;br /&gt;
+|'''ङ''' {{IPA|/ ŋə /}}&lt;br /&gt;
+|-align=&quot;center&quot;
+|[[तालव्य]]
+|'''च''' {{IPA|/ tʃə /}}&lt;br /&gt;
+|'''छ''' {{IPA|/tʃ&lt;sup&gt;h&lt;/sup&gt;ə/}}&lt;br /&gt;
+|'''ज''' {{IPA|/ dʒə /}}&lt;br /&gt;
+|'''झ''' {{IPA|/ dʒ&lt;sup&gt;ɦ&lt;/sup&gt;ə /}}&lt;br /&gt;
+|'''ञ''' {{IPA|/ ɲə /}}&lt;br /&gt;
+|-align=&quot;center&quot;
+|[[मूर्धन्य]]
+|'''ट''' {{IPA|/ ʈə /}}&lt;br /&gt;
+|'''ठ''' {{IPA|/ ʈ&lt;sup&gt;h&lt;/sup&gt;ə /}}&lt;br /&gt;
+|'''ड''' {{IPA|/ ɖə /}}&lt;br /&gt;
+|'''ढ''' {{IPA|/ ɖ&lt;sup&gt;ɦ&lt;/sup&gt;ə /}}&lt;br /&gt;
+|'''ण''' {{IPA|/ ɳə /}}&lt;br /&gt;
+|-align=&quot;center&quot;
+|[[दन्त्य]]
+|'''त''' {{IPA|/ t̪ə /}}&lt;br /&gt;
+|'''थ''' {{IPA|/ t̪&lt;sup&gt;h&lt;/sup&gt;ə /}}&lt;br /&gt;
+|'''द''' {{IPA|/ d̪ə /}}&lt;br /&gt;
+|'''ध''' {{IPA|/ d̪&lt;sup&gt;ɦ&lt;/sup&gt;ə /}}&lt;br /&gt;
+|'''न''' {{IPA|/ nə /}}&lt;br /&gt;
+|-align=&quot;center&quot;
+|[[ओष्ठ्य]]
+|'''प''' {{IPA|/ pə /}}&lt;br /&gt;
+|'''फ''' {{IPA|/ p&lt;sup&gt;h&lt;/sup&gt;ə /}}&lt;br /&gt;
+|'''ब''' {{IPA|/ bə /}}&lt;br /&gt;
+|'''भ''' {{IPA|/ b&lt;sup&gt;ɦ&lt;/sup&gt;ə /}}&lt;br /&gt;
+|'''म''' {{IPA|/ mə /}}&lt;br /&gt;
+|}
+
+{|border=&quot;2&quot; class=wikitable width=100%
+|+align=&quot;center&quot; colspan=&quot;5&quot;|स्पर्शरहित (नॉन-प्लोसिव)
+|-
+!width=25%|
+!width=15%|[[तालव्य]]
+!width=15%|[[मूर्धन्य]]
+!width=15%|[[दन्त्य]]/&lt;br /&gt;[[वर्त्स्य]]
+!width=15%|[[कण्ठोष्ठ्य]]/&lt;br /&gt;[[काकल्य]]
+|-align=&quot;center&quot;
+|[[अन्तस्थ]]
+|'''य''' {{IPA|/ jə /}}&lt;br /&gt;
+|'''र''' {{IPA|/ rə /}}&lt;br /&gt;
+|'''ल''' {{IPA|/ lə /}}&lt;br /&gt;
+|'''व''' {{IPA|/ ʋə /}}&lt;br /&gt;
+|-align=&quot;center&quot;
+|[[ऊष्म]]/&lt;br /&gt;[[संघर्षी]]
+|'''श''' {{IPA|/ ʃə /}}&lt;br /&gt;
+|'''ष''' {{IPA|/ ʂə /}}&lt;br /&gt;
+|'''स''' {{IPA|/ sə /}}&lt;br /&gt;
+|'''ह''' {{IPA|/ ɦə /}}
+|}
+
+;ध्यातव्य
+* इनमें से ळ (मूर्धन्य पार्विक अन्तस्थ) एक अतिरिक्त व्यंजन है जिसका प्रयोग हिन्दी में नहीं होता है। [[मराठी]] और वैदिक संस्कृत में सभी का प्रयोग किया जाता है।
+* संस्कृत में '''ष''' का उच्चारण ऐसे होता था : जीभ की नोक को मूर्धा (मुँह की छत) की ओर उठाकर '''श''' जैसी आवाज करना। शुक्ल [[यजुर्वेद]] की माध्यन्दिनि शाखा ''कुछ वाक़्यात''  में '''ष''' का उच्चारण '''ख''' की तरह करना मान्य था। आधुनिक हिन्दी में '''ष''' का उच्चारण पूरी तरह '''श''' की तरह होता है।
+* हिन्दी में '''ण''' का उच्चारण कभी-कभी '''ड़ँ''' की तरह होता है, यानी कि जीभ मुँह की छत को एक जोरदार ठोकर मारती है। परन्तु इसका शुद्ध उच्चारण जिह्वा को मूर्धा (मुँह की छत. जहाँ से 'ट' का उच्चार करते हैं) पर लगा कर '''न''' की तरह का अनुनासिक स्वर निकालकर होता है।
+
+=== विदेशी ध्वनियाँ ===
+ये ध्वनियाँ मुख्यत: अरबी और फ़ारसी भाषाओं से लिये गये शब्दों के मूल उच्चारण में होती हैं। इनका स्रोत [[संस्कृत]] नहीं है। देवनागरी लिपि में ये सबसे करीबी देवनागरी वर्ण के नीचे बिन्दु ([[नुक़्ता]]) लगाकर लिखे जाते हैं।
+
+{|border=&quot;2&quot; class=wikitable width=100%
+|-align=&quot;center&quot;
+!'''वर्णाक्षर''' &lt;br /&gt;([[आईपीए]] उच्चारण) !! '''उदाहरण''' !! '''वर्णन''' &lt;!---!! '''अंग्रेज़ी में वर्णन'''---&gt;
+|-align=&quot;center&quot;
+!'''क़''' ({{IPA|/ q /}})
+| क़त्ल || अघोष अलिजिह्वीय स्पर्श &lt;!---|| Voiceless uvular stop---&gt;
+|-align=&quot;center&quot;
+!'''ख़''' ({{IPA|/ x /}})
+| ख़ास || अघोष अलिजिह्वीय या कण्ठ्य संघर्षी &lt;!---|| Voiceless uvular or velar fricative---&gt;
+|-align=&quot;center&quot;
+! '''ग़''' ({{IPA|/ ɣ /}})
+| ग़ैर || घोष अलिजिह्वीय या कण्ठ्य संघर्षी &lt;!---|| Voiced uvular or velar fricative---&gt;
+|-align=&quot;center&quot;
+! '''फ़''' ({{IPA|/ f /}})
+| फ़र्क || अघोष दन्त्यौष्ठ्य संघर्षी &lt;!---|| Voiceless labiodental fricative---&gt;
+|-align=&quot;center&quot;
+! '''ज़''' ({{IPA|/ z /}})
+| ज़ालिम || घोष वर्त्स्य संघर्षी &lt;!---|| Voiced alveolar fricative---&gt;
+|}
+
+== व्याकरण ==
+{{मुख्य|हिन्दी व्याकरण}}
+अन्य सभी भारतीय भाषाओं की तरह हिन्दी में भी कर्ता-कर्म-क्रिया वाला वाक्यविन्यास है। हिन्दी में दो लिंग होते हैं — पुल्लिंग और स्त्रीलिंग। नपुंसक वस्तुओं का लिंग भाषा परम्परानुसार पुल्लिंग या स्त्रीलिंग होता है। क्रिया के रूप कर्ता के लिंग पर निर्भर करता है। हिन्दी में दो वचन होते हैं — एकवचन और बहुवचन। क्रिया वचन-से भी प्रभावित होती है। विशेषण विशेष्य-के पहले लगता है।
+{|
+|
+{| class=&quot;wikitable&quot;
+|+कारक दर्शानेवाले परसर्ग
+!कारक
+!परसर्ग
+!उदाहरण
+!विवरण
+|-
+!'''कर्ता'''
+|—
+|लड़का
+|क्रिया का करनेवाला/वाली व्यक्ति या चीज़
+|-
+![[:en:Ergative_case|'''Ergative''']]
+|ने
+|लड़के ने
+|[[:en:Perfective_aspect|perfective aspect]] में [https://www.freejankari.com/2022/04/sakarmak-kriya.html सकर्मक] क्रियाओं के लिए वाक्यों का विषय चिह्नित करता है
+|-
+!'''कर्म'''
+| rowspan=&quot;2&quot; |को
+| rowspan=&quot;2&quot; |लड़के को
+|प्रत्यक्ष वास्तु को चिह्नित करता है।
+|-
+!'''सम्प्रदान'''
+|प्रत्यक्ष वस्तु को चिह्नित करता है मगर वाक्य के विषय को भी दर्शा सकता है।&lt;ref name=&quot;:32&quot;&gt;Bhatt, Rajesh (2003). Experiencer subjects. Handout from MIT course “Structure of the Modern Indo-Aryan Languages”.&lt;/ref&gt;[[:en:Quirky_subject|dative subjects]]; [[:en:Dative_subject|dative subject]]
+|-
+!'''करण'''
+| rowspan=&quot;2&quot; |से
+| rowspan=&quot;2&quot; |लड़के से
+|क्रिया जिस वस्तु या जिस व्यक्ति के साथ की गयी है उसे चिह्नित करता है।
+|-
+!'''अपादान'''
+|दिखता है कि कोई चीज किसी दुसरे चीज से दूर मूवमेंट है।
+|-
+!'''सम्बन्ध'''
+|का, की, के
+|लड़के का
+|दिखता है कि कोई वस्तु किसी दूसरी वस्तु/व्यक्ति की है।
+|-
+![[:en:Inessive_case|'''Inessive''']]
+|में
+|लड़के में
+|दिखाता है कि कोई चीज किसी चीज के अन्दर है।
+|-
+![[:en:Inessive_case|'''Adessive''']]
+|पे / पर
+|लड़के पे
+|दिखता है कि कोई चीज किसी चीज के ऊपर (सतह पर) है।
+|-
+![[:en:Terminative_case|'''Terminative''']]
+|तक
+|लड़के तक
+|दिखता है कि कोई चीज दूसरे चीज तक गयी है।
+|-
+![[:en:Semblative_case|'''Semblative''']]
+|सा
+|लड़के सा
+|किसी चीज की दूसरे चीज से समानता दिखाता है।
+|}
+
+{| class=&quot;wikitable&quot;
+|+लिंग और वचन सूचक
+! rowspan=&quot;2&quot; |कारक
+! colspan=&quot;2&quot; |''♂''
+! colspan=&quot;2&quot; |''♀''
+|-
+!एकवचन
+!बहुवचन
+!एकवचन
+!बहुवचन
+|-
+!कर्ता
+|का
+|के
+| colspan=&quot;2&quot; rowspan=&quot;2&quot; |की
+|-
+!परोक्ष
+| colspan=&quot;2&quot; |के
+|}
+|}
+
+==जनसांख्यिकी==
+{{multiple image
+| align     = left
+| direction = horizontal
+| header    =
+| align     = right
+
+| image1    = Hindi 2011 Indian Census by district.svg
+| width1    = 176
+| alt1      = Colored dice with white background
+| caption1  = '''हिन्दी''' भाषा के स्वघोषित प्रथम भाषा वक्ता
+
+| image2    = Hindi languages 2011 Indian Census by district.svg
+| width2    = 160
+| alt2      = Colored dice with checkered background
+| caption2  = मानक हिन्दी समेत अन्य &quot;हिन्दी '''बोलियों'''&quot; के स्वघोषित प्रथम भाषा वक्ताओं का भौगोलिक विस्तार
+
+| footer    = भौगोलोक विस्तार भारतीय २०११ जनगणना में ज़िला अनुसार){{legend|#eeeeee|०%}}{{legend|#d82520|१००%}}
+}}
+
+[[भारत की जनगणना २०११]] में 57.1% भारतीय आबादी हिन्दी जानती है&lt;ref name=&quot;fulllangdatacensus 2011&quot;/&gt; जिसमें से 43.63% भारतीय लोगों ने हिन्दी को अपनी मूल भाषा या मातृभाषा घोषित किया था।&lt;ref&gt;{{cite web|url=https://timesofindia.indiatimes.com/india/hindi-mother-tongue-of-44-in-india-bangla-second-most-spoken/articleshow/64755458.cms|title=Hindi mother tongue of 44% in India, Bangla second most spoken|access-date=27 जून 2018|archive-url=https://web.archive.org/web/20180720174858/https://timesofindia.indiatimes.com/india/hindi-mother-tongue-of-44-in-india-bangla-second-most-spoken/articleshow/64755458.cms|archive-date=20 जुलाई 2018|url-status=live}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=https://www.thenewsminute.com/article/what-india-speaks-south-indian-languages-are-growing-not-fast-hindi-83823|title=What India speaks: South Indian languages are growing, but not as fast as Hindi|access-date=29 जून 2018|archive-url=https://web.archive.org/web/20190216003937/https://www.thenewsminute.com/article/what-india-speaks-south-indian-languages-are-growing-not-fast-hindi-83823|archive-date=16 फ़रवरी 2019|url-status=dead}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=https://timesofindia.indiatimes.com/india/indias-most-and-least-tongue-tied-communities/articleshow/66600187.cms|title=Only 12% Hindi speakers bilingual: Census|access-date=13 नवंबर 2018|archive-url=https://web.archive.org/web/20181113172718/https://timesofindia.indiatimes.com/india/indias-most-and-least-tongue-tied-communities/articleshow/66600187.cms|archive-date=13 नवंबर 2018|url-status=live}}&lt;/ref&gt; भारत के बाहर, हिन्दी बोलने वाले [[संयुक्त राज्य अमेरिका]] में [[८,६३,०७७|8,63,077]]&lt;ref&gt;{{Cite web|url=https://timesofindia.indiatimes.com/india/hindi-most-spoken-indian-language-in-us-telugu-speakers-up-86-in-8-years/articleshow/65893224.cms|title=Hindi most spoken Indian language in US, Telugu speakers up 86% in 8 years - Times of India|website=The Times of India|accessdate=1 मार्च 2019|archive-url=https://web.archive.org/web/20190405023735/https://timesofindia.indiatimes.com/india/hindi-most-spoken-indian-language-in-us-telugu-speakers-up-86-in-8-years/articleshow/65893224.cms|archive-date=5 अप्रैल 2019|url-status=live}}&lt;/ref&gt;&lt;ref&gt;{{Cite web |url=http://www.census.gov/prod/2013pubs/acs-22.pdf |title=संग्रहीत प्रति |access-date=18 अगस्त 2015 |archive-url=https://web.archive.org/web/20160205101044/http://www.census.gov/prod/2013pubs/acs-22.pdf |archive-date=5 फ़रवरी 2016 |url-status=live }}&lt;/ref&gt;; [[मॉरीशस]] में [[६,८५,१७०|6,85,170]]; [[दक्षिण अफ्रीका|दक्षिण अफ़्रीका]] में [[८,९०,२९२|8,90,292]]; [[यमन]] में [[२,३२,७६०|2,32,760]]; [[युगांडा]] में [[१,४७,०००|1,47,000]]; [[सिंगापुर]] में [[५,०००|5000]]; [[नेपाल]] में [[८|8]] लाख; [[जर्मनी]] में [[३०,०००|30,000]] हैं। [[न्यूजीलैंड]] में हिन्दी चौथी सर्वाधिक बोली जाने वाली भाषा है।&lt;ref&gt;{{Cite web|url=https://www.livehindustan.com/international/story-hindi-is-the-fourth-most-spoken-language-in-new-zealand-syas-envoy-jonna-kempres-1685052.html|title=न्यूजीलैंड में हिन्दी चौथी सबसे ज्यादा बोली जाने वाली भाषा|website=https://www.livehindustan.com|accessdate=1 मार्च 2019|archive-url=https://web.archive.org/web/20180921114758/https://www.livehindustan.com/international/story-hindi-is-the-fourth-most-spoken-language-in-new-zealand-syas-envoy-jonna-kempres-1685052.html|archive-date=21 सितंबर 2018|url-status=dead}}&lt;/ref&gt;
+
+==भारत में उपयोग==
+=== सम्पर्क भाषा===
+भिन्न-भिन्न भाषा-भाषियों के मध्य परस्पर विचार-विनिमय का माध्यम बनने वाली भाषा को सम्पर्क भाषा कहा जाता है। अपने राष्ट्रीय स्वरूप में ही हिन्दी पूरे भारत की [[सम्पर्क भाषा]] बनी हुई है।&lt;ref&gt;[https://goastreets.com/goa-rise-hindi/ Goa and the rise of Hindi]&lt;/ref&gt; अपने सीमित रूप –प्रशासनिक भाषा के रूप – में हिन्दी व्यवहार में भिन्न भाषाभाषियों के बीच परस्पर सम्प्रेषण का माध्यम बनी हुई है। सम्पूर्ण भारतवर्ष में बोली और समझी जाने वाली ([[बॉलीवुड]] के कारण) देशभाषा हिन्दी है, यह राजभाषा भी है तथा सारे देश को जोड़ने वाली सम्पर्क भाषा भी।
+
+===राजभाषा===
+{{मुख्य|भारत की राजभाषा के रूप में हिन्दी}}
+[[चित्र:Hindi official in India.svg|right|thumb|200px|हिन्दी संघ की राजभाषा है। इसके अलावा पीले रंग में दिखाये गये क्षेत्रों (राज्यों) की राजभाषा भी है।]]
+
+हिन्दी [[भारत]] की [[राजभाषा]] है। [[१४|14]] सितम्बर [[१९४९|1949]] को हिन्दी को भारत की राजभाषा के रूप में स्वीकार किया गया था।
+
+=== राष्ट्रभाषा===
+भारत की स्वतंत्रता के पहले और उसके बाद भी बहुत से लोग हिन्दी को 'राष्ट्रभाषा' कहते आये हैं (उदाहरणतः, [[राष्ट्रभाषा प्रचार समिति, वर्धा]], [[महाराष्ट्र राष्ट्रभाषा सभा, पुणे]] आदि) किन्तु  [[भारतीय संविधान]] में '[[राष्ट्रभाषा]]' का उल्लेख नहीं हुआ है और इस दृष्टि से हिन्दी को राष्ट्रभाषा कहने का कोई अर्थ नहीं है।
+
+हिन्दी को राष्ट्रभाषा कहने के एक हिमायती महात्मा गांधी भी थे, जिन्होंने [[२९|29]] मार्च [[१९१८|1918]] को [[इन्दौर]] में आठवें [[हिन्दी साहित्य सम्मेलन]] की अध्यक्षता की थी। उस समय उन्होंने अपने सार्वजनिक उद्बोधन में पहली बार आह्वान किया था कि हिन्दी को ही भारत की राष्ट्रभाषा का दर्जा मिलना चाहिये। उन्होने यह भी कहा था कि राष्ट्रभाषा के बिना राष्ट्र गूँगा है। &lt;ref&gt;{{Cite web |url=https://www.hindikunj.com/2016/10/gandhi-and-hindi.html |title=गांधीजी और हिन्दी |access-date=21 फ़रवरी 2020 |archive-url=https://web.archive.org/web/20190504231928/http://www.hindikunj.com/2016/10/gandhi-and-hindi.html |archive-date=4 मई 2019 |url-status=dead }}&lt;/ref&gt; उन्होने तो यहाँ तक कहा था कि हिन्दी भाषा का प्रश्न स्वराज्य का प्रश्न है। [[आजाद हिन्द फौज]] का राष्ट्रगान '[[शुभ सुख चैन]]' भी &quot;हिन्दुस्तानी&quot; में था। उनका अभियान गीत '[[कदम कदम बढ़ाए जा]]' भी इसी भाषा में था, परन्तु [[सुभाष चन्द्र बोस]] हिन्दुस्तानी भाषा के संस्कृतकरण के पक्षधर नहीं थे, अतः शुभ सुख चैन को [[जनगणमन]] के ही धुन पर, बिना कठिन संस्कृत शब्दावली के बनाया गया था।
+
+=== पूर्वोत्तर भारत में ===
+[[पूर्वोत्तर भारत]] में अनेक जनजातियाँ निवास करती हैं जिनकी अपनी-अपनी भाषाएँ तथा बोलियाँ हैं। इनमें ''बोड़ो, कछारी, जयन्तिया, कोच, त्रिपुरी, गारो, राभा, देउरी, दिमासा, रियांग, लालुंग, नागा, मिजो, त्रिपुरी, जामातिया, खासी, कार्बी, मिसिंग, निशी, आदी, आपातानी, इत्यादि'' प्रमुख हैं। पूर्वोत्तर की भाषाओं में से केवल [[असमिया]], [[बोड़ो]] और [[मणिपुरी]] को भारतीय संविधान की आठवीं अनुसूची में स्थान मिला है। सभी राज्यों में हिन्दी भाषा का प्रयोग अधिकांश प्रवासी हिन्दी भाषियों द्वारा आपस में किया जाता है।&lt;ref&gt;{{Cite web|url=http://gadyakosh.org/gk/%E0%A4%AA%E0%A5%82%E0%A4%B0%E0%A5%8D%E0%A4%B5%E0%A5%8B%E0%A4%A4%E0%A5%8D%E0%A4%A4%E0%A4%B0_%E0%A4%AE%E0%A5%87%E0%A4%82_%E0%A4%AA%E0%A4%B0%E0%A4%9A%E0%A4%AE_%E0%A4%AB%E0%A4%B9%E0%A4%B0%E0%A4%BE%E0%A4%A4%E0%A5%80_%E0%A4%B9%E0%A4%BF%E0%A4%82%E0%A4%A6%E0%A5%80_/_%E0%A4%B8%E0%A4%AA%E0%A4%A8%E0%A4%BE_%E0%A4%AE%E0%A4%BE%E0%A4%82%E0%A4%97%E0%A4%B2%E0%A4%BF%E0%A4%95|title=पूर्वोत्तर में परचम फहराती हिंदी / सपना मांगलिक - Gadya Kosh - हिन्दी कहानियाँ, लेख, लघुकथाएँ, निबन्ध, नाटक, कहानी, गद्य, आलोचना, उपन्यास, बाल कथाएँ, प्रेरक कथाएँ, गद्य कोश|website=gadyakosh.org|language=hi|access-date=2020-12-23}}&lt;/ref&gt;
+
+पूर्वोत्तर में हिन्दी का औपचारिक रूप से प्रवेश वर्ष [[१९३४|1934]] में हुआ, जब [[महात्मा गांधी]] [[अखिल भारतीय हरिजन सभा]] की स्थापना हेतु [[असम]] आये। उस समय गड़मूड़ ([[माजुली]]) के [[सत्र|सत्राधिकार]] ([[वैष्णव सम्प्रदाय|वैष्णव]] धर्मगुरू) एवं स्वतन्त्रता सेनानी [[पीताम्बर देव गोस्वामी]] के आग्रह पर गांधी जी सन्तुष्ट होकर [[बाबा राघव दास]] को हिन्दी प्रचारक के रूप में असम भेजा। वर्ष [[१९३८|1938]] में [[असम हिन्दी प्रचार समिति]] की स्थापना [[गुवाहाटी]] में हुई। यह समिति आगे चलकर [[असम राष्ट्रभाषा प्रचार समिति]] बनी। आम लोगों में हिन्दी भाषा तथा साहित्य के प्रचार-प्रसार करने हेतु- प्रबोध, विशारद, प्रवीण, आदि परीक्षाओं का आयोजन इस समिति के द्वारा होता आ रहा है।
+
+पूर्वोत्तर भारत में हिन्दी की स्थिति दिनों-दिन सबल होती जा रही है और यह सही दिशा में आगे बढ़ रहा है। आजकल [[अरुणाचल प्रदेश]] में बड़े पैमाने पर हिन्दी बोली जाने लगी है। &lt;ref&gt;[https://arunachaltimes.in/index.php/2021/07/25/hindi-arunachals-new-mother-tongue-2/%20Hindi:%20Arunachal%E2%80%99s%20new%20mother%20tongue]{{Dead link|date=सितंबर 2021 |bot=InternetArchiveBot }}&lt;/ref&gt;&lt;ref&gt;[https://www.thebetterindia.com/163207/arunachal-pradesh-hindi-news/%20The%20Intriguing%20Story%20of%20How%20Hindi%20Emerged%20as%20The%20Lingua%20Franca%20of%20Arunachal!]{{Dead link|date=अगस्त 2021 |bot=InternetArchiveBot }}&lt;/ref&gt;हिन्दी का प्रचार-प्रसार तथा उसकी लोकप्रियता एवं व्यावहारिकता टी.वी. ([[धारावाहिक]], [[विज्ञापन]]), [[सिनेमा]], [[आकाशवाणी]], [[पत्रकारिता]], [[विद्यालय]], [[महाविद्यालय (कॉलेज)|महाविद्यालय]] तथा [[उच्च शिक्षा]] में हिन्दी भाषा के प्रयोग द्वारा बढ़ रही है।&lt;ref&gt;{{Cite web|url=https://vbsamwad.co.in/hindi-in-northeastern-india/|title=पूर्वोत्तर भारत में हिन्दी की स्थिति एवं संभावनाएँ|last=PurvottarSamwad|date=2020-12-22|website=Purvottar Samwad|language=en-US|access-date=2020-12-23}}&lt;/ref&gt;&lt;ref&gt;{{Cite web|url=https://hindivivek.org/335|title=पूर्वोत्तर में हिंदी|date=2015-11-05|website=हिंदी विवेक|language=en-US|access-date=2020-12-23}}&lt;/ref&gt;
+
+== भारत के बाहर ==
+सन् [[१९९८|1998]] के पूर्व, मातृभाषियों की संख्या की दृष्टि से विश्व में सर्वाधिक बोली जाने वाली भाषाओं के जो आँकड़े मिलते थे, उनमें हिन्दी को तीसरा स्थान दिया जाता था। सन् [[१९९७|1997]] में 'सैंसस ऑफ़ इण्डिया' का भारतीय भाषाओं के विश्लेषण का ग्रन्थ प्रकाशित होने तथा संसार की भाषाओं की रिपोर्ट तैयार करने के लिए [[यूनेस्को]] द्वारा सन् [[१९९८|1998]] में भेजी गई यूनेस्को प्रश्नावली के आधार पर उन्हें भारत सरकार के [[केन्द्रीय हिन्दी संस्थान]] के तत्कालीन निदेशक प्रोफेसर महावीर सरन जैन द्वारा भेजी गई विस्तृत रिपोर्ट के बाद अब विश्व स्तर पर यह स्वीकृत है कि मातृभाषियों की संख्या की दृष्टि से संसार की भाषाओं में [[चीनी भाषा]] के बाद हिन्दी का दूसरा स्थान है। चीनी भाषा के बोलने वालों की संख्या हिन्दी भाषा से अधिक है किन्तु चीनी भाषा का प्रयोग क्षेत्र हिन्दी की अपेक्षा सीमित है। अंग्रेजी भाषा का प्रयोग क्षेत्र हिन्दी की अपेक्षा अधिक है किन्तु मातृभाषियों की संख्या अंग्रेजी भाषियों से अधिक है।
+
+विश्वभाषा बनने के सभी गुण हिन्दी में विद्यमान हैं।&lt;ref&gt;[http://www.abhivyakti-hindi.org/parikrama/delhi/2011/09_12_11.htm हिन्दी का वैश्विक परिदृश्य] {{Webarchive|url=https://web.archive.org/web/20181119171322/http://www.abhivyakti-hindi.org/parikrama/delhi/2011/09_12_11.htm |date=19 नवंबर 2018 }} (डा. करुणाशंकर उपाध्याय)&lt;/ref&gt; बीसवीं सदी के अन्तिम दो दशकों में हिन्दी का अन्तरराष्ट्रीय विकास बहुत तेजी से हुआ है।&lt;ref&gt;{{Cite web |url=https://gshindi.com/category/articles/hindi-in-age-of-globalisation |title=विश्व स्तर पर प्रभावशाली भाषा बनकर उभरी है हिन्दी |access-date=6 जून 2019 |archive-url=https://web.archive.org/web/20180205032623/http://gshindi.com/category/articles/hindi-in-age-of-globalisation |archive-date=5 फ़रवरी 2018 |url-status=dead }}&lt;/ref&gt; हिन्दी एशिया के व्यापारिक जगत् में धीरे-धीरे अपना स्वरूप बिम्बित कर भविष्य की अग्रणी भाषा के रूप में स्वयं को स्थापित कर रही है।&lt;ref&gt;{{Cite web|url=https://books.google.co.in/books?id=eDtbDwAAQBAJ&amp;printsec=frontcover#v=onepage&amp;q&amp;f=false|title=Hindi Ki Vishwavyapti|first=Ganga Prasad|last=Vimal|date=1 मार्च 2018|publisher=Prabhat Prakashan|accessdate=1 मार्च 2019|via=Google Books|archive-url=https://web.archive.org/web/20181009092743/https://books.google.co.in/books?id=eDtbDwAAQBAJ&amp;printsec=frontcover#v=onepage&amp;q&amp;f=false|archive-date=9 अक्तूबर 2018|url-status=live}}&lt;/ref&gt; [[वेब]], [[विज्ञापन]], [[संगीत]], [[सिनेमा]] और बाजार के क्षेत्र में हिन्दी की माँग जिस तेजी से बढ़ी है वैसी किसी और भाषा में नहीं। विश्व के लगभग [[१५०|150]] विश्वविद्यालयों तथा सैकड़ों छोटे-बड़े केन्द्रों में विश्वविद्यालय स्तर से लेकर शोध स्तर तक हिन्दी के अध्ययन-अध्यापन की व्यवस्था हुई है। विदेशों में [[२५|25]] से अधिक पत्र-पत्रिकाएँ लगभग नियमित रूप से हिन्दी में प्रकाशित हो रही हैं। यूएई के 'हम एफ़-एम' सहित अनेक देश हिन्दी कार्यक्रम प्रसारित कर रहे हैं, जिनमें [[बीबीसी]], [[जर्मनी]] के [[डॉयचे वेले]], [[जापान]] के एनएचके वर्ल्ड और [[चीन]] के [[चाइना रेडियो इंटरनेशनल]] की हिन्दी सेवा विशेष रूप से उल्लेखनीय हैं।
+
+दिसम्बर [[२०१६|2016]] में [[विश्व आर्थिक मंच]] ने [[१०|10]] सर्वाधिक शक्तिशाली भाषाओं की जो सूची जारी की है उसमें हिन्दी भी एक है।&lt;ref name=&quot;auto&quot;/&gt; इसी प्रकार 'कोर लैंग्वेजेज' नामक साइट ने 'दस सर्वाधिक महत्वपूर्ण भाषाओं'&lt;ref&gt;[http://corelanguages.com/top-ten-important-languages/ {{Webarchive|url=https://web.archive.org/web/20161220080733/http://corelanguages.com/top-ten-important-languages/ |date=20 दिसंबर 2016 }} Top Ten Most Important Languages&lt;/ref&gt; में हिन्दी को स्थान दिया था। के-इण्टरनेशनल ने वर्ष [[२०१७|2017]] के लिये सीखने योग्य सर्वाधिक उपयुक्त नौ भाषाओं&lt;ref&gt;{{Cite web|url=https://www.k-international.com/blog/learn-a-language/|title=The Top Languages to Learn in 2018|first=Alison|last=Kroulek|date=14 दिस॰ 2017|accessdate=1 मार्च 2019|archive-url=https://web.archive.org/web/20190331194050/https://www.k-international.com/blog/learn-a-language/|archive-date=31 मार्च 2019|url-status=dead}}&lt;/ref&gt; में हिन्दी को स्थान दिया है।
+
+हिन्दी का एक अन्तरराष्ट्रीय भाषा के रूप में स्थापित करने और [[विश्व हिन्दी सम्मेलन|विश्व हिन्दी सम्मेलनों]] के आयोजन को संस्थागत व्यवस्था प्रदान करने के उद्देश्य से [[११|11]] फरवरी [[२००८|2008]] को [[विश्व हिन्दी सचिवालय]] की स्थापना की गयी थी। [[संयुक्त राष्ट्र रेडियो]] अपना प्रसारण हिन्दी में भी करना आरम्भ किया है। हिन्दी को [[संयुक्त राष्ट्र संघ]] की भाषा बनाये जाने के लिए भारत सरकार प्रयत्नशील है। अगस्त [[२०१८|2018]] से संयुक्त राष्ट्र ने साप्ताहिक हिन्दी समाचार बुलेटिन आरम्भ किया है। &lt;ref&gt;{{Cite web|url=https://economictimes.indiatimes.com/news/politics-and-nation/hindi-weekly-news-bulletin-from-un-has-begun-sushma-swaraj/articleshow/65358965.cms|title=Hindi weekly news bulletin from UN has begun: Sushma Swaraj|date=11 अग॰ 2018|accessdate=1 मार्च 2019|via=The Economic Times|archive-url=https://web.archive.org/web/20190328104607/https://economictimes.indiatimes.com/news/politics-and-nation/hindi-weekly-news-bulletin-from-un-has-begun-sushma-swaraj/articleshow/65358965.cms|archive-date=28 मार्च 2019|url-status=live}}&lt;/ref&gt;
+
+== डिजिटिकरण और कम्प्यूटर क्रान्ति ==
+{{इन्हें भी देखें|हिन्दी कम्प्यूटरी|हिन्दी टाइपिंग| कम्प्यूटर और हिन्दी|हिन्दी कम्प्यूटिंग का इतिहास|मोबाइल फोन में हिन्दी समर्थन|विकिपीडिया:इण्टरनेट पर हिन्दी के साधन}}
+
+कम्प्यूटर और [[इण्टरनेट]] ने पिछले वर्षों में विश्व में [[सूचना क्रान्ति]] ला दी है। आज कोई भी भाषा कम्प्यूटर (तथा कम्प्यूटर सदृश अन्य उपकरणों) से दूर रहकर लोगों से जुड़ी नहीं रह सकती। कम्प्यूटर के विकास के आरम्भिक काल में अंग्रेजी को छोड़कर विश्व की अन्य भाषाओं के कम्प्यूटर पर प्रयोग की दिशा में बहुत कम ध्यान दिया गया जिसके कारण सामान्य लोगों में यह गलत धारणा फैल गयी कि कम्प्यूटर अंग्रेजी के सिवा किसी दूसरी भाषा (लिपि) में काम ही नहीं कर सकता। किन्तु यूनिकोड (''Unicode'') के पदार्पण के बाद स्थिति बहुत तेजी से बदल गयी।&lt;ref&gt;[https://www.hindionnet.com/2018/11/blog-post_91.html#more राजभाषा कार्यान्वयन में तकनीकी की भूमिका]&lt;/ref&gt; [[१९|19]] अगस्त [[२००९|2009]] में गूगल ने कहा की हर [[५|5]] वर्षों में हिन्दी की सामग्री में [[९५|94]]% बढ़ोतरी हो रही है।&lt;ref&gt;{{समाचार सन्दर्भ|title=हिन्दी सामग्री का उपयोग इंटरनेट पर 94% बढ़ा: गूगल|url=http://www.jagran.com/technology/tech-news-hindi-content-consumption-on-internet-growing-at-94-google-12754900.html|accessdate=19 अगस्त 2015|publisher=[[दैनिक जागरण]]|date=19 अगस्त 2015|archive-url=https://web.archive.org/web/20150819085032/http://www.jagran.com/technology/tech-news-hindi-content-consumption-on-internet-growing-at-94-google-12754900.html|archive-date=19 अगस्त 2015|url-status=live}}&lt;/ref&gt;
+
+हिन्दी की इण्टरनेट पर अच्छी उपस्थिति है। गूगल जैसे सर्च इंजन हिन्दी को प्राथमिक भारतीय भाषा के रूप में पहचानते हैं। इसके साथ ही अब अन्य भाषा के चित्र में लिखे शब्दों का भी अनुवाद हिन्दी में किया जा सकता है।&lt;ref&gt;{{समाचार सन्दर्भ|title=फोटो देखकर हिन्दी में अनुवाद कर देगा गूगल|url=http://www.jagran.com/news/national-google-will-translate-photographs-into-hindi-12670257.html|accessdate=19 अगस्त 2015|publisher=[[दैनिक जागरण]]|date=30 जुलाई 2015|archive-url=https://web.archive.org/web/20160818151350/http://www.jagran.com/news/national-google-will-translate-photographs-into-hindi-12670257.html|archive-date=18 अगस्त 2016|url-status=live}}&lt;/ref&gt; फरवरी [[२०१८|2018]] में एक सर्वेक्षण के हवाले से खबर आयी कि इण्टरनेट की दुनिया में हिन्दी ने भारतीय उपभोक्ताओं के बीच अंग्रेजी को पछाड़ दिया है। ''यूथ4वर्क''  की इस सर्वेक्षण रिपोर्ट ने इस आशा को सही साबित किया है कि जैसे-जैसे इण्टरनेट का प्रसार छोटे शहरों की ओर बढ़ेगा, हिन्दी और भारतीय भाषाओं की दुनिया का विस्तार होता जाएगा। &lt;ref&gt;{{Cite web|url=https://www.amarujala.com/columns/opinion/hindi-beat-english-in-internet|title=नेट में अंग्रेजी को पछाड़ती हिंदी- Amarujala|website=Amar Ujala|accessdate=1 मार्च 2019|archive-url=https://web.archive.org/web/20190302090523/https://www.amarujala.com/columns/opinion/hindi-beat-english-in-internet|archive-date=2 मार्च 2019|url-status=live}}&lt;/ref&gt;
+
+इस समय हिन्दी में सजाल (''वेबसाइट''), चिट्ठे (''ब्लॉग''), विपत्र (''ईमेल''), गपशप (''चैट''), खोज (''वेब-सर्च''), सरल मोबाइल सन्देश (''एसएमएस'') तथा अन्य [[Web Hindi Resources|हिन्दी सामग्री]] उपलब्ध हैं। इस समय [[Hindi Computing Resources on the Internet|अन्तरजाल पर हिन्दी में संगणन (कम्प्यूटिंग) के संसाधनों]] की भी भरमार है और नित नये कम्प्यूटिंग उपकरण आते जा रहे हैं।&lt;ref&gt;{{Cite web |url=https://www.microsoft.com/en-in/bhashaindia/downloads.aspx|url=https://www.jagran.com/news/national-hindi-spreading-speedy-all-over-the-world-due-to-technology-revolution-hindi-market-also-booms-jagran-special-19576338.html |title=तकनीक क्रांति से दुनिया में बढ़ी हिंदी की धमक, बाजार ने भी माना लोहा |access-date=18 सितंबर 2019 |archive-url=https://web.archive.org/web/20190918001129/https://www.jagran.com/news/national-hindi-spreading-speedy-all-over-the-world-due-to-technology-revolution-hindi-market-also-booms-jagran-special-19576338.html |archive-date=18 सितंबर 2019 |url-status=live }}&lt;/ref&gt;&lt;ref&gt;{{Cite web |url=https://www.livehindustan.com/uttar-pradesh/lucknow/story-hindi-day-2019-hindi-is-becoming-the-language-of-employment-with-technology-2745515.html |title=तकनीक से रोजगार की भाषा बन रही हिन्दी |access-date=18 सितंबर 2019 |archive-url=https://web.archive.org/web/20190918020053/https://www.livehindustan.com/uttar-pradesh/lucknow/story-hindi-day-2019-hindi-is-becoming-the-language-of-employment-with-technology-2745515.html |archive-date=18 सितंबर 2019 |url-status=dead }}&lt;/ref&gt; लोगों में इनके बारे में जानकारी देकर जागरूकता पैदा करने की जरूरत है ताकि अधिकाधिक लोग कम्प्यूटर पर हिन्दी का प्रयोग करते हुए अपना, हिन्दी का और पूरे हिन्दी समाज का विकास करें। [[शब्दनगरी]] जैसी नई सेवाओं का प्रयोग करके लोग अच्छे हिन्दी साहित्य का लाभ अब इण्टरनेट पर भी उठा सकते हैं।&lt;ref&gt;{{Cite web|url=https://www.jagran.com/uttar-pradesh/gorakhpur-city-14693757.html|title=इंटरनेट पर चमक रही हमारी ¨हदी|website=Dainik Jagran|accessdate=1 मार्च 2019|archive-url=https://web.archive.org/web/20190302090559/https://www.jagran.com/uttar-pradesh/gorakhpur-city-14693757.html|archive-date=2 मार्च 2019|url-status=live}}&lt;/ref&gt;
+&lt;ref&gt;{{Cite web|url=https://www.amarujala.com/india-news/role-of-web-media-in-development-hindi|title=वेब मीडिया ने बढ़ाया हिंदी का दायरा - Amarujala|website=Amar Ujala|accessdate=1 मार्च 2019|archive-url=https://web.archive.org/web/20190302024602/https://www.amarujala.com/india-news/role-of-web-media-in-development-hindi|archive-date=2 मार्च 2019|url-status=live}}&lt;/ref&gt;
+
+== जनसंचार ==
+{{मुख्य|हिन्दी के संचार माध्यम|हिन्दी सिनेमा}}
+मुम्बई में स्थित &quot;[[बॉलीवुड]]&quot; [[हिन्दी फ़िल्म]] उद्योग पर भारत के करोड़ो लोगों की धड़कनें टिकी रहती हैं। हर चलचित्र में कई गाने होते हैं। हिन्दी और [[उर्दू]] ([[खड़ीबोली]]) के साथ साथ [[अवधी]], [[बम्बइया हिन्दी]], [[भोजपुरी]], [[राजस्थानी भाषा|राजस्थानी]] जैसी बोलियाँ भी संवाद और गानों में उपयुक्त होती हैं। प्यार, देशभक्ति, परिवार, अपराध, भय, इत्यादि मुख्य विषय होते हैं। अधिकतर गाने उर्दू शायरी पर आधारित होते हैं।
+
+अब मोबाइल कम्पनियाँ ऐसे हैंडसेट बना रही हैं जो हिन्दी और भारतीय भाषाओं को सपोर्ट करते हैं। बहुराष्ट्रीय कम्पनियाँ हिन्दी जानने वाले कर्मचारियों को वरीयता दे रही हैं। हॉलीवुड की फिल्में हिन्दी में डब हो रही हैं और हिन्दी फिल्में देश के बाहर देश से अधिक कमाई कर रही हैं। हिन्दी, विज्ञापन उद्योग की पसन्दीदा भाषा बनती जा रही है। गूगल, ट्रांसलेशन, ट्रांस्लिटरेशन, फोनेटिक टूल्स, गूगल असिस्टेण्ट आदि के क्षेत्र में नई नई रिसर्च कर अपनी सेवाओं को बेहतर कर रहा है। हिन्दी और भारतीय भाषाओं की पुस्तकों का डिजिटलीकरण जारी है।
+
+[[फेसबुक]] और [[वाट्सऐप|व्हाट्सएप]] हिन्दी और भारतीय भाषाओं के साथ तालमेल बिठा रहे हैं। सोशल मीडिया ने हिन्दी में लेखन और पत्रकारिता के नए युग का सूत्रपात किया है और कई जनान्दोलनों को जन्म देने और चुनाव जिताने-हराने में उल्लेखनीय और हैरान करने वाली भूमिका निभाई है। सितम्बर [[२०१८|2018]] में प्रकाशित हुई एक अमेरिकी रिपोर्ट के अनुसार हिन्दी में ट्वीट करना अत्यन्त लोकप्रिय हो रहा है। रिपोर्ट में कहा गया है कि पिछले वर्ष सबसे अधिक पुनः ट्वीट किए गये [[१५|15]] सन्देशों में से [[११|11]] हिन्दी के थे।&lt;ref&gt;{{Cite web|url=https://www.livehindustan.com/gadgets/story-hindi-tweets-are-becoming-famous-in-india-2182671.html|title=भारत में हिंदी के ट्वीट करना हो रहा है लोकप्रिय, रिसर्च में आया सामने|website=https://www.livehindustan.com|accessdate=1 मार्च 2019|archive-url=https://web.archive.org/web/20190328142306/https://www.livehindustan.com/gadgets/story-hindi-tweets-are-becoming-famous-in-india-2182671.html|archive-date=28 मार्च 2019|url-status=dead}}&lt;/ref&gt; हिन्दी और अन्य भारतीय भाषाओं का बाजार इतना बड़ा है कि अनेक कम्पनियाँ अपने उत्पाद और वेबसाइटें हिन्दी और स्थानीय भाषाओं में ला रहीं हैं।&lt;ref&gt;[https://economictimes.indiatimes.com/tech/internet/how-online-vernacular-market-is-becoming-the-big-battle-ground-for-tech-cos/articleshow/63248994.cms How online vernacular market is becoming the next big battle ground for tech cos] {{Webarchive|url=https://web.archive.org/web/20181009131956/https://economictimes.indiatimes.com/tech/internet/how-online-vernacular-market-is-becoming-the-big-battle-ground-for-tech-cos/articleshow/63248994.cms |date=9 अक्तूबर 2018 }} (मार्च २०१८)&lt;/ref&gt;&lt;ref&gt;{{Cite web |url=https://www.indiatoday.in/education-today/jobs-and-careers/story/top-5-career-options-for-hindi-speaking-professionals-1613420-2019-10-28 |title='''Hindi as the new in-demand skill''' : 5 career opportunities that you can look at |access-date=21 फ़रवरी 2020 |archive-url=https://web.archive.org/web/20191031115200/https://www.indiatoday.in/education-today/jobs-and-careers/story/top-5-career-options-for-hindi-speaking-professionals-1613420-2019-10-28 |archive-date=31 अक्तूबर 2019 |url-status=live }}&lt;/ref&gt;
+
+== इन्हें भी देखें ==
+{{प्रवेशद्वार}}
+{{कालम|2}}
+* [[हिन्दी साहित्य का इतिहास]]
+* [[हिन्दी व्याकरण]]
+* [[भारत की भाषाएँ]]
+* [[हिंग्लिश]]
+* [[हिन्दको भाषा]]
+* [[फिजी हिन्दी]]
+* [[हिन्दी की विभिन्न बोलियाँ और उनका साहित्य]]
+* [[हिन्दी भाषियों की संख्या के आधार पर भारत के राज्यों की सूची]]
+* [[हिन्दी से सम्बन्धित प्रथम]]
+* [[भारत की राजभाषा के रूप में हिन्दी]]
+* [[विकिपीडिया:इण्टरनेट पर हिन्दी के साधन|अन्तरजाल पर हिन्दी सामग्री]] - क्या कहाँ है?
+* [[wikt:मुख्य पृष्ठ|हिन्दी विक्षनरी]]
+* [https://web.archive.org/web/20080820161730/http://hi.wikiquote.org/wiki/%E0%A4%AE%E0%A5%81%E0%A4%96%E0%A5%8D%E0%A4%AF_%E0%A4%AA%E0%A5%83%E0%A4%B7%E0%A5%8D%E0%A4%A0 हिन्दी विकिकोट]
+* [https://web.archive.org/web/20160121160805/https://hi.wikibooks.org/wiki/%E0%A4%AE%E0%A5%81%E0%A4%96%E0%A5%8D%E0%A4%AF_%E0%A4%AA%E0%A5%83%E0%A4%B7%E0%A5%8D%E0%A4%A0 हिन्दी विकिपुस्तक]
+* [https://hi.wikisource.org/wiki/मुख्य_पृष्ठ:हिन्दी हिन्दी विकिस्रोत]{{Dead link|date=अगस्त 2021 |bot=InternetArchiveBot }} - हिन्दी के कापीराइट-मुक्त पुस्तकों का संग्रह
+&lt;/div&gt;
+
+== सन्दर्भ ==
+{{टिप्पणीसूची|2}}
+
+== बाहरी कड़ियाँ ==
+{{sister project links}}
+{{कालम|2}}
+* [https://web.archive.org/web/20191002080033/https://hindi.webdunia.com/hindi-diwas-special/hindi-quotations-for-hindi-language-116091400033_1.html हिन्दी पर महापुरुषों के विचार]
+* [https://web.archive.org/web/20080516071225/http://wikitravel.org/en/Hindi_phrasebook '''हिन्दी फ़्रेजबुक'''] {{अंग्रेज़ी चिह्न}}
+* [https://web.archive.org/web/20180727085140/https://www.amarujala.com/india-news/hindi-is-most-popular-language-in-india-bangali-is-second-according-to-censuses-2011 दक्षिण भारत में तेजी से बढ़ रहे हिंदी बोलने वाले, देश के 44 फीसदी लोगों की बनी भाषा] (२०११ जनसंख्या के आंकड़ों के अनुसार)
+* [https://web.archive.org/web/20151026140127/http://thediplomat.com/2014/07/language-and-basic-rights-in-india-beyond-english/ Language and Basic Rights in India: Beyond English]
+&lt;/div&gt;
+
+{{हिन्दी की बोलियाँ}}
+{{हिन्दी व्याकरण}}
+{{हिन्द-आर्य भाषाएँ}}
+{{भारत की भाषाएँ |state=autocollapse}}
+{{pp-semi-template|small=yes}}
+
+[[श्रेणी:हिन्दी|हिन्दी]]
+[[श्रेणी:हिन्द-आर्य भाषाएँ]]
+[[श्रेणी:विश्व की प्रमुख भाषाएं]]
+[[श्रेणी:भारत की भाषाएँ]]</text>
+      <sha1>ofi15xwz2rjwnp7l09f7zgvjo3m58zj</sha1>
+    </revision>
+  </page>
