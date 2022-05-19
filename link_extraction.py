@@ -15,7 +15,6 @@ def ref_links(section_text):
             # print(re.findall(r'(https?://[^\s]+)|(http?://[^\s]+)', str(i)))
             finallist.append(re.findall(r'(https?://[^\s]+)', str(i))[0]) #regex cleans url properly to send clean url
 
-    print("finalist:",finallist)
     return finallist
 
 

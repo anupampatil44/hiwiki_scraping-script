@@ -3,7 +3,7 @@
     python3 main.py <path to xml file> <name of output file>
 
     Example:
-    python3 main.py sample_pages/sample_page.xml out_up.json
+    python3 main.py hiwiki.bz2 out_up.json
 
 3) Other files are modularised functions for enabling better reuse.
 4) The sample_pages folder has sample xml files, the current output.json generated was tested for sample_page.xml

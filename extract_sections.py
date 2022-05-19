@@ -7,8 +7,6 @@ def section_extraction(wikicode):
   try:
     regex_for_section_names="(?<===)(.*?)((?= \/==)|(?===))"
     sections=list(x.group() for x in re.finditer(regex_for_section_names,str(wikicode)))
-    print(sections)
-    print("No. of sections and subsections:",len(sections))
 
     main_sections=[]
     subsections=[]
@@ -17,9 +15,6 @@ def section_extraction(wikicode):
         main_sections.append(i)
       elif '=' in i and i.count('=')==1:
         subsections.append(i)
-
-    print("Main sections:\n",main_sections)
-    print()
 
     section_text=[]
     for i in range(1,len(main_sections)-1):
@@ -48,9 +43,8 @@ def relevant_sections(section_text):
       # print(temp.strip_code().strip())
       lenlist.append(len(temp.strip_code().strip()))
 
-    print('List of lengths:\n',lenlist)
     avglen=sum(lenlist)//denom
-    print("Average length of sections:",avglen)
+
 
   # only consider those sections with character-count>= average
     relevant_sections=[]
@@ -61,7 +55,7 @@ def relevant_sections(section_text):
         relevant_sections.append(section_text[i][0])
         indice_list.append(i)
 
-    print('No. of relevant sections:',len(relevant_sections),'\n-------------------------------\n')
+    # print('No. of relevant sections:',len(relevant_sections),'\n-------------------------------\n')
     return relevant_sections,indice_list
 
   except:
