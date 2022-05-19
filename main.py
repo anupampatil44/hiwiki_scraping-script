@@ -233,3 +233,5 @@ def iterative_run(bz2_path=str(sys.argv[1])):
 
         if len(handler._pages)==5:
             break
+
+iterative_run(bz2_path=str(sys.argv[1]))
